@@ -1,4 +1,7 @@
 # sindppd-rs-news-observer
+![Python](https://img.shields.io/badge/Python-gray?logo=Python&labelColor=yellow)
+[![LICENSE MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+
 
 A tiny web crawler that aid user by search for new posts related to the desired topic in section "Últimas Notícias".
 
